@@ -113,6 +113,8 @@ ENV/
 env.bak/
 venv.bak/
 
+oanda.cfg
+
 # Spyder project settings
 .spyderproject
 .spyproject
