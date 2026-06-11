@@ -3,10 +3,10 @@ from datetime import datetime, timedelta
 
 import pytz
 
-import tpqoa
+from tpqoa import tpqoa
 import matplotlib.pyplot as plt
 
-plt.style.use("seaborn")
+#plt.style.use("seaborn")
 
 
 class LiveTrader(tpqoa.tpqoa):

@@ -1,4 +1,4 @@
-import tpqoa
+from tpqoa import tpqoa
 from datetime import datetime
 
 from livetrading.BollingerBandsLive import BollingerBandsLive
