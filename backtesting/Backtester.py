@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import tpqoa
+from tpqoa import tpqoa
 
 
 class Backtester:
